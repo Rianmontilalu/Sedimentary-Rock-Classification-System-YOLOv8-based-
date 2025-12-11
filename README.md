@@ -62,3 +62,6 @@ Loss Graph (Train/Val)
 ![Image Alt](https://github.com/Rianmontilalu/Sedimentary-Rock-Classification-System-YOLOv8-based-/blob/a07f3066af753130575b2fe721de197aff60dadf/CodeTA/Backend%20%26%20User%20interface/Clastic%20stone.png)
 
 ![Image Alt](https://github.com/Rianmontilalu/Sedimentary-Rock-Classification-System-YOLOv8-based-/blob/b959601c9ee8e8f2098863412fbfe21af6469751/CodeTA/Backend%20%26%20User%20interface/Non-klastik.png)
+
+![Image Alt](https://github.com/Rianmontilalu/Sedimentary-Rock-Classification-System-YOLOv8-based-/blob/af3a680c8ec83f4bca8b51a2447cb29b340c4685/CodeTA/Backend%20%26%20User%20interface/Sandstone.png)
+
