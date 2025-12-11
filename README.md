@@ -58,3 +58,5 @@ mAP50
 mAP50-95
 Precision & Recall
 Loss Graph (Train/Val)
+
+![Image Alt](https://github.com/Rianmontilalu/Sedimentary-Rock-Classification-System-YOLOv8-based-/blob/a07f3066af753130575b2fe721de197aff60dadf/CodeTA/Backend%20%26%20User%20interface/Clastic%20stone.png)
